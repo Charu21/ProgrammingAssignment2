@@ -6,7 +6,6 @@
 # of the matrix is retrieved in order to save computation time.
 #
 
-
 ## What does the makeCacheMatrix function do???
 # makeCacheMatrix is a function which stores a martix and a cached value
 # of the inverse of the matrix.
